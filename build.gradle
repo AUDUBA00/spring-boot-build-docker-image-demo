@@ -6,7 +6,7 @@ plugins {
 
 group = 'com.spring-example'
 version = 'latest'
-sourceCompatibility = '23'
+sourceCompatibility = '21'
 
 repositories {
 	mavenCentral()
